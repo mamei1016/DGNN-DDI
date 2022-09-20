@@ -1,6 +1,5 @@
 # mamei-DGNN-DDI
-source for paper DGNN-DDI
-DGNN-DDI is designed to a dual GNN for drug-drug interaction prediction based on molecular structure  and can provide explanations that are consistent with pharmacologists.
+Source for paper DGNN-DDI is designed to a dual GNN for drug-drug interaction prediction based on molecular structure  and can provide explanations that are consistent with pharmacologists.
 ## Note
 We have added comments to drugbank/data_preprocessing.py and drugbank/model.py. If you are interested in the technical details of preprocessing steps and algorithms, I think those comments would be helpful. 
 ## Requirements  
